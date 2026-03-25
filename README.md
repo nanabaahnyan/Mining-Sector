@@ -172,3 +172,10 @@ print("Mining company csv file 'mining_company_data.csv' generated successfully!
 Each Jupiter notebook in this project is aimed to answer a specific question in the questions listed at the top.
 
 ### 1.  Find the productivity (avg ore extracted per hour worked) by ore type.
+To solve for the productivity by ore type, i imported all my libraries and also my dataset. I then cleaned the dates by converting it from strings to dateTime. I have to then extract the dataset based on OreExtracted and HoursWorked if only they are greater than 0. I then find the mean by using the groupBy function and also sort them in descending order.
+
+View my detailed code snippets here: [Productivity by ore](productivity_by_ore/productivity_by_ore.ipynb)
+
+![Visualizing solution by graph](<images/Productivity by ore (Visualization).png>)
+
+### 2. 
