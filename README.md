@@ -239,7 +239,7 @@ print(f"Peak ore extraction month: {monthly_ore.idxmax()} ({monthly_ore.max():,.
 After performing analysis on this mining sector dataset, i got to interact with newer functions and visualization concepts that has broadened my understanding and knowledge. I got to appreciate how well data can be manipulated to bring about information that aids organizations and businesses to make decisions. I was compelled to do more of these analysis since it becomes more interesting to grasp more whiles solving questions.
 This dataset can be acted upon more to bring out some of the best analytical concepts in learning.
 
-Note
+*Note*
 Ways i used to solve these dataset questions can be different yet attain the same result. All tools and materials that were not cited and acknowledged is indirectly acknowledged and will be added when it comes to mind.
 
 Thanks to **Luke Barousse** for the massive and inspiring tutorial and also thanks to the Python theme for massive libraries. <br>
